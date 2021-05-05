@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @btclark1
-- 👀 I’m interested in ... Architecture and design of embedded systems
+- 👀 I’m interested in ... Architecture and design of embedded systems, Linux, Arm Cortex A53, Cortex M7
 - 🌱 I’m currently learning ... medical devices, ARM processor systems
 - 💞️ I’m looking to collaborate on ... ARM i.mx8M Nano , Linux
 - 📫 How to reach me ...
